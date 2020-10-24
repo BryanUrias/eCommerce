@@ -1,9 +1,25 @@
 .homepage {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px 80px;
-  }
-  
-  
-  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 80px;
+}
+
+#test1 {
+  color: red;
+  background-color: blue;
+}
+
+#test2 {
+  color: orange;
+  background-color: purple;
+}
+
+.container {
+  background-color: saddlebrown;
+  height: 2000px;
+  background-image: url("https://cdn.pixabay.com/photo/2019/12/03/13/40/winter-4670078_1280.jpg");
+  background-size: 2000px;
+  background-position-x: unset;
+  background-position: center;
+}
